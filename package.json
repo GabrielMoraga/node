@@ -1,0 +1,17 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "desafio servidor con node y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Gabriel Moraga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
